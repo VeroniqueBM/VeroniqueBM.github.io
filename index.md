@@ -2,6 +2,8 @@
 * _Laboratoire_ : [LaCIM](http://lacim.uqam.ca/)
 * _Université_ : [Université du Québec à Montréal](https://etudier.uqam.ca/)
 
+Unistructurality of cluster algebras of type $$\tilde{\mathbb{A}}$$, J. Algebra, 464 : 297–315, 2016.
+
 ### Pour me contacter
 
 **Courriel** : bazier-matte.veronique@courrier.uqam.ca
