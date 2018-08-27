@@ -1,6 +1,6 @@
-# Véronique Bazier-Matte
-
-### _Étudiante au doctorat sous la supervision de Hugh Thomas au [LaCIM](http://lacim.uqam.ca/) à l'[Université du Québec à Montréal](https://etudier.uqam.ca/) depuis 2016_
+* _Directeur de recherche_ : Hugh Thomas
+* _Laboratoire_ : [LaCIM](http://lacim.uqam.ca/)
+* _Université_ : [Université du Québec à Montréal](https://etudier.uqam.ca/)
 
 ### Pour me contacter
 
