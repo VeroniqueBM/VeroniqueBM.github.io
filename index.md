@@ -1,14 +1,15 @@
 # Véronique Bazier-Matte
 
 Étudiante au doctorat sous la supervision de Hugh Thomas au [LaCIM](http://lacim.uqam.ca/) à l'[Université du Québec à Montréal](https://etudier.uqam.ca/) depuis 2016
+Allo
 
 ### Pour me contacter
 
-Courriel : bazier-matte.veronique@courrier.uqam.ca
+**Courriel** : bazier-matte.veronique@courrier.uqam.ca
 
-Adresse : Département de Mathématiques – LaCIM, Université du Québec à Montréal, CP 8888 Succ. Centre-Ville Montréal, Québec H3C 3P8 Canada
+**Adresse** : Département de Mathématiques – LaCIM, Université du Québec à Montréal, CP 8888 Succ. Centre-Ville Montréal, Québec H3C 3P8 Canada
 
-Bureau : ?
+**Bureau** : ?
 
 
 ### Intérêts de recherche :
