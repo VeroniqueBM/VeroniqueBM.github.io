@@ -10,7 +10,7 @@ Unistructurality of cluster algebras of type $$\tilde{\mathbb{A}}$$, J. Algebra,
 
 **Adresse** : Département de Mathématiques – LaCIM, Université du Québec à Montréal, CP 8888 Succ. Centre-Ville Montréal, Québec H3C 3P8 Canada
 
-**Bureau** : ?
+**Bureau** : PK-4523
 
 
 ### Intérêts de recherche :
